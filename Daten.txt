@@ -1,0 +1,24 @@
+Hartsfield-Jackson International Airport Atlanta (ATL)
+33.636667, -84.428056
+Beijing Capital International Airport (PEK)
+40.0725, 116.5975
+Dubai International Airport (DXB)
+25.252778, 55.364444
+Chicago O Hare International Airport (ORD)
+41.978611, -87.904722
+Tokyo International Airport (HND)
+35.553333, 139.781111
+Heathrow Airport (LHR)
+51.4775, -0.461389
+Los Angeles International Airport (LAX)
+33.9425, -118.408056
+Hong Kong International Airport (HKG)
+22.308889, 113.914444
+Paris Charles de Gaulle Airport (CDG)
+49.009722, 2.547778
+Dallas International Airport (DFW)
+32.896944, -97.038056
+Istanbul Atatürk Airport (IST)
+40.976111, 28.814167
+Frankfurt Airport (FRA)
+50.033333, 8.570556
